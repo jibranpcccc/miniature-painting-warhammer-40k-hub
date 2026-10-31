@@ -4,10 +4,17 @@
     <title>Miniature Painting &amp; Warhammer 40k Hobby Hub</title>
     <link>https://miniature-painting-warhammer-40k-hub.vercel.app/</link>
     <description>Verified community directory and updates.</description>
-    <lastBuildDate>Thu, 29 Oct 2026 06:09:33 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 31 Oct 2026 07:02:35 GMT</lastBuildDate>
     <atom:link href="https://miniature-painting-warhammer-40k-hub.vercel.app/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-                                                                                                                                                <item>
+                                                                                                                                                    <item>
+      <title>📅 Today's Fresh Pick: Hacker News Community (Forum)</title>
+      <link>https://news.ycombinator.com</link>
+      <guid isPermaLink="false">https://jibranpcccc.github.io/miniature-painting-warhammer-40k-hub/#miniature-painting-warhammer-40k-hub-forum-20261019-1-2026-10-31</guid>
+      <pubDate>Sat, 31 Oct 2026 07:02:35 GMT</pubDate>
+      <description>Newly verified community added to Miniature Painting &amp; Warhammer 40k Hobby Hub: Y Combinator's flagship intellectual community discussing software engineering, science, and startup mechanics.</description>
+    </item>
+<item>
       <title>📅 Today's Fresh Pick: Hacker News Community (Forum)</title>
       <link>https://news.ycombinator.com</link>
       <guid isPermaLink="false">https://jibranpcccc.github.io/miniature-painting-warhammer-40k-hub/#miniature-painting-warhammer-40k-hub-forum-20261019-1-2026-10-29</guid>
@@ -174,13 +181,6 @@
       <guid isPermaLink="false">https://jibranpcccc.github.io/miniature-painting-warhammer-40k-hub/#miniature-painting-warhammer-40k-hub-forum-20261001-1-2026-10-01</guid>
       <pubDate>Thu, 01 Oct 2026 08:04:00 GMT</pubDate>
       <description>Newly verified community added to Miniature Painting &amp; Warhammer 40k Hobby Hub: Global developer blogging and discussion platform sharing tutorials, benchmarks, and project breakdowns.</description>
-    </item>
-<item>
-      <title>📅 Today's Fresh Pick: Stack Overflow Python Questions (Forum)</title>
-      <link>https://stackoverflow.com/questions/tagged/python</link>
-      <guid isPermaLink="false">https://jibranpcccc.github.io/miniature-painting-warhammer-40k-hub/#miniature-painting-warhammer-40k-hub-forum-20260930-1-2026-09-30</guid>
-      <pubDate>Wed, 30 Sep 2026 06:24:49 GMT</pubDate>
-      <description>Newly verified community added to Miniature Painting &amp; Warhammer 40k Hobby Hub: The world's largest repository of solved Python questions, debugging threads, and code snippets.</description>
     </item>
   </channel>
 </rss>
